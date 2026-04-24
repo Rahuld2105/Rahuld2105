@@ -6,7 +6,7 @@
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td width="55%" valign="top">
 
@@ -24,7 +24,7 @@
 </td>
 
 <td width="45%" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 </td>
 </tr>
 </table>
